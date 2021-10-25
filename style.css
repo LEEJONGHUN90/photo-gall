@@ -1,9 +1,41 @@
+#nav{
+    left: 0%;
+    width: 100%;
+    height: 70px;
+    box-shadow: 0 4px 10px 2px grey;
+    background: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    position: fixed;
+    top: 0;
+
+}
+#screen-mode{
+    background: skyblue;
+    width: 90px;
+    height: 35px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-right: 50px;
+}
+#circle-btn{
+    background: white;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    margin: 5px;
+    cursor: pointer;
+}
 .photo{
     text-align: center;
     font-family: 'Festive', cursive;
     font-family: 'Oswald', sans-serif;
     font-family: 'Qahiri', sans-serif;
     font-family: 'Zen Kurenaido', sans-serif;
+    margin-top: 100px;
 }
 .eastlogue{
     display:block;
