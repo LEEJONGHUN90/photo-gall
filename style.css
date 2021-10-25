@@ -1,0 +1,20 @@
+.photo{
+    text-align: center;
+}
+.eastlogue{
+    display:block;
+    flex-wrap: wrap;
+    text-align: center;
+    width: 1500px;
+    height: 1100px;
+    border: 3px solid black;
+    margin: 0 auto;
+}
+.search-box{
+    text-align: cn;
+}
+.cat{
+    width: 280px;
+    height: 300px;
+    margin: 15px;
+}
